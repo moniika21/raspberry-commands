@@ -1,0 +1,3 @@
+ifconfig wlan0 down
+
+#dtoverlay=disable-wifi in /boot/config.txt
