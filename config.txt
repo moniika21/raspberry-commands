@@ -29,6 +29,6 @@ arm_boost=1
 # NOOBS Auto-generated Settings:
 gpu_mem=256
 
-#To disable wifi or bt is needed
+#To disable wifi or bt
 dtoverlay=disable-wifi
 dtoverlay=disable-bt
