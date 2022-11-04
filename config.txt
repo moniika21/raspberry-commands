@@ -1,3 +1,5 @@
+# /boot/config.txt
+
 display_auto_detect=1
 
 # Enable DRM VC4 V3D driver
