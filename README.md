@@ -5,6 +5,7 @@
 dtoverlay=disable-wifi
 dtoverlay=disable-bt
 ```
+## To disable autologin at start without through raspi-config command
 The `raspi-config` simply manipulates this symlink. To switch to manual login, execute (as root):
 
 ```bash
